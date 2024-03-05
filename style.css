@@ -10,35 +10,49 @@ header{
     height: 8vh;
     font-size: 40px;
     font-weight: bold;
-    background-color: whitesmoke;
+    background-color: white;
+    border-radius: 5px;
+    position: relative;
+    
   
 }
 
+header>img{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+header>span{
+    position: absolute;
+    bottom:15px;
+    font-weight: 900;
+}
+
+
 body{
-    background-color: aqua;
+    background-color:#F6F8F9;
     
 }
 
 main{
-    background-color: aqua;
+    background-color: gray;
     width: 70vw;
     height: 70vh;
     margin: auto;
-    
-}
-
-.container{
-    width: 40vw;
-    height: 50vh;
+   
     margin-top:10%;
     padding-left: 10%;
-    background-color: whitesmoke;
+    background-color:white;
     border-radius: 5px;
 }
+    
 
 .bottoni-up{
-border-bottom: 2%;
+    margin: 10px 10px;
+    height: 30px;
 }
+
+
 
 button{
     border-radius: 5px;
@@ -46,11 +60,13 @@ button{
 
 .task{
     background-color: rgb(240, 254, 255);
-    /* color: white; */
+    border-color:rgb(240, 254, 255) ;
+   
 }
 
 .editorial{
     background-color: aqua;
+    border-color: aqua;
 }
 
 .Goals{
