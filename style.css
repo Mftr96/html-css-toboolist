@@ -6,18 +6,47 @@
 }
 
 header{
-    width: 30vh;
+    width: 100vw;
+    height: 8vh;
     font-size: 40px;
     font-weight: bold;
-    position: relative;
+    background-color: whitesmoke;
+  
 }
 
-/* main{
-    background-color: azure;
-} */
+body{
+    background-color: aqua;
+    
+}
+
+main{
+    background-color: aqua;
+    width: 70vw;
+    height: 70vh;
+    margin: auto;
+    
+}
+
+.container{
+    width: 40vw;
+    height: 50vh;
+    margin-top:10%;
+    padding-left: 10%;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.bottoni-up{
+border-bottom: 2%;
+}
 
 button{
     border-radius: 5px;
+}
+
+.task{
+    background-color: rgb(240, 254, 255);
+    /* color: white; */
 }
 
 .editorial{
