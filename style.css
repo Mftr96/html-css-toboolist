@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    width: 30vh;
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+}
+
+/* main{
+    background-color: azure;
+} */
