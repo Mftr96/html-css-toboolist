@@ -15,3 +15,31 @@ header{
 /* main{
     background-color: azure;
 } */
+
+button{
+    border-radius: 5px;
+}
+
+.editorial{
+    background-color: aqua;
+}
+
+.Goals{
+    background-color: purple;
+}
+
+.recruiting{
+background-color: aqua;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.website{
+    background-color: fuchsia;
+}
+
+.Sales{
+background-color:green;
+}
